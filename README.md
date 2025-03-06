@@ -11,3 +11,7 @@ Salvar nesse repositório o readme.md e o arquivo .json de pontos de extremidade
 Para utilizar o Azure Machine Learning, é necessário provisionar um workspace na sua assinatura do Azure. Com isso, você poderá acessar e gerenciar os recursos do ambiente diretamente no Azure Machine Learning Studio, facilitando o desenvolvimento, treinamento e implantação de modelos de machine learning. 🚀
 
 ![image](https://github.com/user-attachments/assets/704001ce-40c1-4cb1-aaf8-ee448f12abbd)
+
+
+Preenchido as informações conforme tela abaixo:
+![image](https://github.com/user-attachments/assets/e23ac570-e4c3-4156-959d-3ac12dd62771)
