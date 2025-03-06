@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/82eccafc-d123-4351-940b-952924e96398)![image](https://github.com/user-attachments/assets/f1775985-c7d6-48f4-af71-2438b10471cf)# Dio-Machine-Learning-na-Pr-tica-no-Azure-ML
+# Dio-Machine-Learning-na-Pr-tica-no-Azure-ML
 Dio-Machine-Learning-na-Pratica-no-Azure-ML
 
 Criar um novo repositório no github
