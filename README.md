@@ -22,4 +22,14 @@ Acesso o portal  https://ml.azure.com/?azure-portal=true
 Selecione o Workspace conforme imagem abaixo:
 ![image](https://github.com/user-attachments/assets/c4d66650-d97b-4b24-a0a0-7022427cd4ed)
 
-Depois em view the Automated ML page (under Authoring).
+Depois em view the Automated ML page (under Authoring). Va em create Automated 
+
+![image](https://github.com/user-attachments/assets/0699577e-cc0a-4697-a1b7-af99e7b7cd30)
+
+Preencha esta etapa com os seguintes parametros abaixo:
+
+![image](https://github.com/user-attachments/assets/a5ac82d2-1268-4495-a9a5-071c7258ff81)
+
+
+![image](https://github.com/user-attachments/assets/f11c834e-80c3-4aae-a64e-adae5ea8f6f6)
+
