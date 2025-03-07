@@ -40,3 +40,6 @@ Na proxima etapa preencha conforme imagem abaixo:
 
 ![image](https://github.com/user-attachments/assets/48a47f54-1301-4fa4-a4a3-4bc52686ada7)
 
+Resultado 
+![image](https://github.com/user-attachments/assets/1c3a17de-1a92-4a8a-ae41-0dccb1f75d52)
+
