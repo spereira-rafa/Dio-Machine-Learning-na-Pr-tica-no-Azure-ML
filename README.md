@@ -20,7 +20,9 @@ Preenchido as informações conforme tela abaixo:
 Acesso o portal  https://ml.azure.com/?azure-portal=true  
 
 Selecione o Workspace conforme imagem abaixo:
-![image](https://github.com/user-attachments/assets/c4d66650-d97b-4b24-a0a0-7022427cd4ed)
+
+![image](https://github.com/user-attachments/assets/baad98ef-a002-4b5e-b5d8-90c3117cca60)
+
 
 Depois em view the Automated ML page (under Authoring). Va em create Automated 
 
@@ -31,5 +33,9 @@ Preencha esta etapa com os seguintes parametros abaixo:
 ![image](https://github.com/user-attachments/assets/a5ac82d2-1268-4495-a9a5-071c7258ff81)
 
 
-![image](https://github.com/user-attachments/assets/f11c834e-80c3-4aae-a64e-adae5ea8f6f6)
+
+![image](https://github.com/user-attachments/assets/724c85bc-2327-4516-8cdc-2d8d872250d2)
+
+
+![image](https://github.com/user-attachments/assets/48a47f54-1301-4fa4-a4a3-4bc52686ada7)
 
