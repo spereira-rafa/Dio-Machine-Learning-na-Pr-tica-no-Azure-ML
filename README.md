@@ -43,3 +43,6 @@ Na proxima etapa preencha conforme imagem abaixo:
 Resultado 
 ![image](https://github.com/user-attachments/assets/1c3a17de-1a92-4a8a-ae41-0dccb1f75d52)
 
+Link de apoio:
+
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
