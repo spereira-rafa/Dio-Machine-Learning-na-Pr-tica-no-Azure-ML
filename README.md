@@ -36,6 +36,7 @@ Preencha esta etapa com os seguintes parametros abaixo:
 
 ![image](https://github.com/user-attachments/assets/724c85bc-2327-4516-8cdc-2d8d872250d2)
 
+Na proxima etapa preencha conforme imagem abaixo: 
 
 ![image](https://github.com/user-attachments/assets/48a47f54-1301-4fa4-a4a3-4bc52686ada7)
 
